@@ -16,9 +16,9 @@
     <canvas id="webglCanvas" width="389" height="563"></canvas>
 
     <!-- Подключаем three.js -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r153/three.min.js"></script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r153/three.min.js"></script>
 
-    <script>
+<script>
         const canvas = document.getElementById("webglCanvas");
 
         // Отключаем контекстное меню
@@ -52,4 +52,3 @@
     </script>
 </body>
 </html>
- 
