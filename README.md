@@ -19,6 +19,6 @@
 <details>
   <summary>Макеты</summary>
     
-(https://www.figma.com/design/UiPSAwSMIBFJFpNBUUmRLw/1-команда-XR-Place?node-id=0-1&node-type=canvas&t=dSXk9pfyrGwEuAq5-0) 
+[Figma]([https://www.google.com](https://clck.ru/3EQNom))
 ![image](https://github.com/user-attachments/assets/c5ee2153-3d43-4654-8259-8a8c5a96f140)
 </details>
