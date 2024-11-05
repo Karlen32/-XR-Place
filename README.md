@@ -18,7 +18,11 @@
 
 <details>
   <summary>Макеты</summary>
+  
     
 [Figma]([https://www.google.com](https://clck.ru/3EQNom))
+
+
 ![image](https://github.com/user-attachments/assets/c5ee2153-3d43-4654-8259-8a8c5a96f140)
+
 </details>
