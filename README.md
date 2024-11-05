@@ -247,7 +247,7 @@ Telegram: [@Arabadzhyan](https://t.me/Arabadzhyan)
 </details>
 
 <details>
-  <summary>Чек-лист</summary>
+  <summary>Чек-лист десктоп</summary>
 
   [Десктоп](https://clck.ru/3EP3eB)
   </details>
