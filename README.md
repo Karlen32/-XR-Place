@@ -20,7 +20,7 @@
   <summary>Макеты</summary>
   
     
-https://clck.ru/3EQNom
+[Figma](https://clck.ru/3EQNom)
 
 ![image](https://github.com/user-attachments/assets/c5ee2153-3d43-4654-8259-8a8c5a96f140)
 
@@ -245,6 +245,12 @@ Commitizen для структурированных коммитов
 Telegram: [@Arabadzhyan](https://t.me/Arabadzhyan)
 
 </details>
+
+<details>
+  <summary>Чек-лист</summary>
+
+  [Десктоп](https://clck.ru/3EP3eB)
+  </details>
 
 
 
