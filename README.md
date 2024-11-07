@@ -379,6 +379,23 @@ Telegram: [@Arabadzhyan](https://t.me/Arabadzhyan)
 | t98  | Расположение карточек остаётся двухрядным на больших экранах, с равномерными отступами между ними. | Passed | Passed |
   </details>
 
+  <details>
+  <summary>Чек-лист (планшет, мобилка)</summary>
+
+  [Чек-лист (планшет, мобилка)](https://clck.ru/3EP3fu)
+    </details>
+
+    <details>
+  <summary>Валидация полей</summary>
+
+  [Валидация полей](https://clck.ru/3EPzYt)
+    </details>
+
+    <details>
+  <summary>Особенности мобилки</summary>
+  [Особенности мобилки](https://clck.ru/3EP3n8)
+    </details>
+
 
 
   
