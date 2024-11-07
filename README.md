@@ -385,13 +385,13 @@ Telegram: [@Arabadzhyan](https://t.me/Arabadzhyan)
   [Чек-лист (планшет, мобилка)](https://clck.ru/3EP3fu)
     </details>
 
-    <details>
-  <summary>Валидация полей</summary>
+  <details>
+    <summary>Валидация полей</summary>
 
   [Валидация полей](https://clck.ru/3EPzYt)
     </details>
 
-    <details>
+  <details>
   <summary>Особенности мобилки</summary>
   [Особенности мобилки](https://clck.ru/3EP3n8)
     </details>
