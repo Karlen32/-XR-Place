@@ -404,7 +404,7 @@ Telegram: [@Arabadzhyan](https://t.me/Arabadzhyan)
     
  <details>
   <summary>Api Get</summary>
-  [Api Gey](https://clck.ru/3Efi5F)
+  [Api Get](https://clck.ru/3Efi5F)
     </details>
 
   
