@@ -395,8 +395,17 @@ Telegram: [@Arabadzhyan](https://t.me/Arabadzhyan)
   <summary>Особенности мобилки</summary>
   [Особенности мобилки](https://clck.ru/3EP3n8)
     </details>
+    
+  <details>
+  <summary>Api Post</summary>
+  [Api Post](https://clck.ru/3Efi2f)
+    </details>
 
-
+    
+ <details>
+  <summary>Api Get</summary>
+  [Api Gey](https://clck.ru/3Efi5F)
+    </details>
 
   
 
